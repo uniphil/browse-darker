@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "version": "2.6",
-  "name": "Browse Darker",
+  "name": "Browse Darker Less Darkly",
   "theme": {
     "images" : {
       "theme_frame" : "background-noise-toolbar.png",
