@@ -1,0 +1,36 @@
+{
+  "manifest_version": 2,
+  "version": "2.6",
+  "name": "gr",
+  "theme": {
+    "images" : {
+      "theme_frame" : "background-noise-toolbar.png",
+    //   "theme_frame_overlay" : "images/theme_frame_stripe.png",
+      "theme_toolbar" : "blah.png"
+    //   "theme_ntp_background" : "images/theme_ntp_background_norepeat.png",
+    //   "theme_ntp_attribution" : "images/attribution.png"
+    },
+    "colors" : {
+      "frame" : [58, 58, 58],  // area behind tabs
+      "frame_inactive": [58, 58, 58],  // behind tabs on window defocus
+      "tab_text": [230, 230, 230],  // selected tab's text
+      "tab_background_text": [120, 120, 120],  // other tabs' text
+      "toolbar" : [58, 58, 58, 1],  // inspector bar; rgba
+      "bookmark_text": [180, 180, 180],
+      "ntp_background": [32, 32, 32],
+      "ntp_text" : [200, 200, 200],
+      "ntp_link" : [255, 255, 255],
+      "ntp_link_underline": [200, 200, 200],
+      "ntp_section" : [127, 127, 127],
+      "control_background": [0, 0, 0],
+      "button_background" : [88, 88, 88]
+    },
+    "tints" : {
+      "buttons" : [0, 0, 0.8],
+      "background_tab": [0, 0, 0.2]
+    }
+    // "properties" : {
+    //   "ntp_background_alignment" : "bottom"
+    // }
+  }
+}
