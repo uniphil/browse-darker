@@ -1,4 +1,3 @@
-browse-darker
-=============
+I wanted a dark theme that wasn't black.
 
-noise texture stolen from the Mediterranean Dark theme for gnome3.
+https://chrome.google.com/webstore/detail/browse-darker/pbibagopjmadojpcpifdoacchffdjdgh
