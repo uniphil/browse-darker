@@ -26,7 +26,7 @@
       "button_background" : [88, 88, 88]
     },
     "tints" : {
-      "buttons" : [0, 0, 0.8],
+      "buttons" : [0, 0, 0.6],
       "background_tab": [0, 0, 0.2]
     }
     // "properties" : {
