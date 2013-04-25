@@ -1,21 +1,18 @@
 {
   "manifest_version": 2,
   "version": "2.6",
-  "name": "gr",
+  "name": "Browse Darker",
   "theme": {
     "images" : {
       "theme_frame" : "background-noise-toolbar.png",
-    //   "theme_frame_overlay" : "images/theme_frame_stripe.png",
       "theme_toolbar" : "blah.png"
-    //   "theme_ntp_background" : "images/theme_ntp_background_norepeat.png",
-    //   "theme_ntp_attribution" : "images/attribution.png"
     },
     "colors" : {
-      "frame" : [58, 58, 58],  // area behind tabs
-      "frame_inactive": [58, 58, 58],  // behind tabs on window defocus
-      "tab_text": [230, 230, 230],  // selected tab's text
-      "tab_background_text": [120, 120, 120],  // other tabs' text
-      "toolbar" : [58, 58, 58, 1],  // inspector bar; rgba
+      "frame" : [58, 58, 58],
+      "frame_inactive": [58, 58, 58],
+      "tab_text": [230, 230, 230],
+      "tab_background_text": [120, 120, 120],
+      "toolbar" : [58, 58, 58, 1],
       "bookmark_text": [180, 180, 180],
       "ntp_background": [32, 32, 32],
       "ntp_text" : [200, 200, 200],
@@ -29,8 +26,5 @@
       "buttons" : [0, 0, 0.6],
       "background_tab": [0, 0, 0.2]
     }
-    // "properties" : {
-    //   "ntp_background_alignment" : "bottom"
-    // }
   }
 }
